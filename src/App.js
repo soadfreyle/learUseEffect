@@ -1,7 +1,9 @@
+import LifeCycle from "./LifeCycle";
+
 function App() {
   return (
     <div>
-      <h1>hola</h1>
+      <LifeCycle></LifeCycle>
     </div>
   );
 }
